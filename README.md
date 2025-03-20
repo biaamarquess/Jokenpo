@@ -6,7 +6,7 @@ Com as pesquisas e os conhecimentos adquiridos durante as aulas sobre JavaScript
 
 # Participações e Links
 
-![print telainicial](telainicial.png)
+![print telainicial](tela_inicial.png)
 
 Participações  
 > [Isabelly Dias Baptista](https://github.com/IDBaptista)  
